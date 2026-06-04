@@ -1,6 +1,6 @@
 # Fix Broken Packages Debian based
 
-# 🛠️ GodFather System Fixer  
+# 🛠️ CAgent_47 System Fixer  
 ### 🔥 Fix Broken Linux Packages Like a Boss
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-orange?style=for-the-badge&logo=linux)
@@ -11,6 +11,24 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
 </p>
+
+---
+
+⚠️ WARNING (Read This!)
+
+🚨 This script:
+
+**.** Reinstalls ALL installed packages
+ 
+**.** Automatically reboots the system
+
+⚠️ Do NOT run on:
+
+**.** Production servers
+
+**.** Critical environments
+
+🧪 Always test on a VM or non-critical system first.
 
 ---
 
@@ -81,24 +99,6 @@ chmod +x fix-system.sh
 
 ---
 
-⚠️ WARNING (Read This!)
-
-🚨 This script:
-
-**.** Reinstalls ALL installed packages
- 
-**.** Automatically reboots the system
-
-⚠️ Do NOT run on:
-
-**.** Production servers
-
-**.** Critical environments
-
-🧪 Always test on a VM or non-critical system first.
-
----
-
 🐧 Supported Systems
 
 Ubuntu ✅
@@ -123,7 +123,7 @@ When nothing else works
 
 👑 Author
 
-GodFather
+CAgent_47
 🖤 Linux | Bash | python Learner | Lua (MTA:sa) | SQL
 
 ⭐ If this script saved your system, give it a star!

@@ -85,7 +85,7 @@ sudo rm -rf /var/crash/*
 
 # reboot after fix:
 if [[ "$?" -eq 0 ]]; then
-    reboot
+  sudo systemctl reboot
 fi
 ```
 
